@@ -1,4 +1,4 @@
-## Eae! eu sou O LikeX86, estudante de programação e tecnologia!
+## Eae! eu sou o LikeX86, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/LikeX86">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=LikeX86&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
