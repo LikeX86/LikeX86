@@ -1,6 +1,5 @@
 ## oi! Eu sou o LikeX86, estudante de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/LikeX86">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Like-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
